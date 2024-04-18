@@ -5,12 +5,12 @@ Solucion propuesta por Martin Jourdan al challenge de data de Xepelin
 ## Consideraciones generales:
 Para la solución de los ejercicios propuestos, se proveen los siguientes archivos:
 
-1 script .py "xepelin_pipeline_challenge.py" con las funciones y la lógica completa a ejecutar
-1 archivo "requirements.txt" con las librerias a instalar para la ejecución del script python
-1 archivo "sftp_config_example.json" que contiene las credenciales del sftp a utilizar (se provee uno de prueba)
-1 archivo "orders_2023-10-01.csv" con datos de muestra, los mismos que fueron propuestos en el enunciado del ejercicio "pipeline"
-1 archivo preguntas.txt con las respuestas a las preguntas teóricas planteadas en el ejercicio "pipeline"
-1 archivo "xepelin_sql_challenge.sql" con la creación de tablas y esquema, carga de datos de prueba y la consulta solicitada en el ejercicio "sql"
+- 1 script .py "xepelin_pipeline_challenge.py" con las funciones y la lógica completa a ejecutar
+- 1 archivo "requirements.txt" con las librerias a instalar para la ejecución del script python
+- 1 archivo "sftp_config_example.json" que contiene las credenciales del sftp a utilizar (se provee uno de prueba)
+- 1 archivo "orders_2023-10-01.csv" con datos de muestra, los mismos que fueron propuestos en el enunciado del ejercicio "pipeline"
+- 1 archivo preguntas.txt con las respuestas a las preguntas teóricas planteadas en el ejercicio "pipeline"
+- 1 archivo "xepelin_sql_challenge.sql" con la creación de tablas y esquema, carga de datos de prueba y la consulta solicitada en el ejercicio "sql"
 
 
 ## Ejercicio "Pipeline":
