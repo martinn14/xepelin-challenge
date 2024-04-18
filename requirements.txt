@@ -1,0 +1,4 @@
+pip install pandas
+pip install pysftp
+pip install pandas-gbq
+pip install google-oauth2-tool
