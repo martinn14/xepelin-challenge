@@ -13,6 +13,7 @@ Para la solución de los ejercicios propuestos, se proveen los siguientes archiv
 - 1 archivo "xepelin_sql_challenge.sql" con la creación de tablas y esquema, carga de datos de prueba y la consulta solicitada en el ejercicio "sql"
 
 
+
 ## Ejercicio "Pipeline":
 
 El script que ejecuta la logica es "xepelin_pipeline_challenge.py". El mismo requiere recibir como parametro la fecha para la que se quiere procesar la data. Dicho parametro será utilizado para construir el nombre del archivo que buscará en el sftp. Por ejemplo
